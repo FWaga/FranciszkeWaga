@@ -1,3 +1,3 @@
 # FranciszkeWaga
 java
-lab[numer lab]_[numer zadania]
+lab[numer_lab]_[numer_zadania]
